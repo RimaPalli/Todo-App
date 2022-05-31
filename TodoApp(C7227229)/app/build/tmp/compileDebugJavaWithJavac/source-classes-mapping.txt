@@ -1,0 +1,33 @@
+com/mobileapplication/todoapp/model/Task.java
+ com.mobileapplication.todoapp.model.Task
+com/mobileapplication/todoapp/MainActivity.java
+ com.mobileapplication.todoapp.MainActivity
+ com.mobileapplication.todoapp.MainActivity$1
+ com.mobileapplication.todoapp.MainActivity$2
+com/mobileapplication/todoapp/BottomSheetFragment.java
+ com.mobileapplication.todoapp.BottomSheetFragment
+ com.mobileapplication.todoapp.BottomSheetFragment$1
+com/mobileapplication/todoapp/model/TaskViewModel.java
+ com.mobileapplication.todoapp.model.TaskViewModel
+com/mobileapplication/todoapp/util/TaskRoomDatabase.java
+ com.mobileapplication.todoapp.util.TaskRoomDatabase
+ com.mobileapplication.todoapp.util.TaskRoomDatabase$1
+com/mobileapplication/todoapp/model/SharedViewModel.java
+ com.mobileapplication.todoapp.model.SharedViewModel
+com/mobileapplication/todoapp/util/Converter.java
+ com.mobileapplication.todoapp.util.Converter
+com/mobileapplication/todoapp/adapter/OnToDoClickListener.java
+ com.mobileapplication.todoapp.adapter.OnToDoClickListener
+com/mobileapplication/todoapp/util/Utils.java
+ com.mobileapplication.todoapp.util.Utils
+com/mobileapplication/todoapp/data/TaskDao.java
+ com.mobileapplication.todoapp.data.TaskDao
+com/mobileapplication/todoapp/data/DoRepository.java
+ com.mobileapplication.todoapp.data.DoRepository
+com/mobileapplication/todoapp/adapter/RecyclerViewAdapter.java
+ com.mobileapplication.todoapp.adapter.RecyclerViewAdapter
+ com.mobileapplication.todoapp.adapter.RecyclerViewAdapter$ViewHolder
+com/mobileapplication/todoapp/BuildConfig.java
+ com.mobileapplication.todoapp.BuildConfig
+com/mobileapplication/todoapp/model/Priority.java
+ com.mobileapplication.todoapp.model.Priority
